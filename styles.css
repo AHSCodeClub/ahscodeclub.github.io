@@ -1,0 +1,18 @@
+    * {margin: 0; padding: 0;}
+    a {text-decoration: none;}
+    @import url('https://fonts.googleapis.com/css?family=PT+Sans'); 
+    body {background-color: #eac67a}
+    header {background-color: #233237; text-align: center; height: 10rem;}
+    h1 {color: #984b43; font-size: 3rem; line-height: 5rem; margin-left: 2rem; padding-top: 3%; font-family:         'PT Sans', sans-serif; text-transform: uppercase
+	; -webkit-text-stroke: 2px #eac67a; float: left}
+    h2 {color: #984b43; font-size: 2rem; line-height: 5rem; margin-right: 2rem; padding-top: 3%; font-family: 		'PT Sans', sans-serif; text-transform: uppercase; -webkit-text-stroke: 1px #eac67a; float: right;}
+h3 {color: #984b43; font-size: 1.6rem; line-height: 1rem; margin-right: 2rem; padding-top: 0; font-family: 'PT Sans', sans-serif; text-transform: uppercase
+; -webkit-text-stroke: 1px #eac67a; float: right; clear: left;}
+    #student-pages {display: block; margin: 2rem auto 2rem; width: 50%; height: 300px; background-color: 		    	    #984b43; border-radius: 10px; border: 20px solid #233237; color: #eac67a}
+    #student-pages:hover {background-color: #233237; border-color: #984b43; /*color: #eac67a;*/}
+    #student-pages span {text-transform: uppercase; font-size: 5rem;}
+    #student-pages span:hover {}
+    .student-projects {display: block; margin: 2rem 5% 2rem; width: 40%; height: 300px; background-color:                              #984b43; border-radius: 10px; border: 20px solid #233237; color: #eac67a; float: left;}
+    .student-projects:hover {background-color: #233237; border-color: #984b43; /*color: #eac67a;*/}
+    .student-projects span {text-transform: uppercase; font-size: 5rem;}
+    .student-projects span:hover {}
